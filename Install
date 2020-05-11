@@ -1,0 +1,3 @@
+// INSTALLING //
+1. Import database into system, located at "Database" folder
+2. Change database name at sistem/config.php
